@@ -1,2 +1,2 @@
 # my-Java-Journey
-This is what I did early of java
+#This is what I did while learning Java
